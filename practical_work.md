@@ -104,4 +104,4 @@ Leroy Merlin:
 
 *Блок-схема*
 
-![Блок-схема](https://github.com/Artem-Karmeev/Business_process_modeling_seminars/blob/main/image/hw04.png)
+![Блок-схема](image/hw04.png)
